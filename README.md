@@ -30,7 +30,9 @@
 
 ```bash
 # Clone o repositório
-git clone <[url-do-repositorio](https://github.com/Poterdev/Conversor-de-pdf_txt-POR-QUE-)>
+git clone https://github.com/Poterdev/Conversor-de-pdf_txt-POR-QUE-
+
+#Agora caminhe para diretório criado "/Conversor-de-pdf_txt-POR-QUE-"
 
 # Instale dependências
 pip install PyPDF2
