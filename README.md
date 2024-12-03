@@ -63,4 +63,4 @@ python main.py
 - Conversão pode perder formatação
 - Imagens/tabelas não são convertidas
 - Enfretamos ainda a questão dos tokens que existe uma limitação,
-  onde estudaremos mais sobre uma técnica chada RAG para melhor o codigo.
+  onde estudaremos mais sobre uma técnica chamada RAG para melhorar o codigo.
